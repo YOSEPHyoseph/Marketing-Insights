@@ -8,7 +8,7 @@ import numpy as np
 # Load and prepare the data
 @st.cache_data
 def load_data():
-    file_path = r'C:\Users\Yoseph\Desktop\New folder\campaign_data.xlsx'  # Update to your Excel file name
+    file_path = r'C:\Users\Yoseph\Desktop\Campaign Insights\campaign_data.xlsx'  # Update to your Excel file name
     try:
         data = pd.read_excel(file_path)
     except Exception as e:
