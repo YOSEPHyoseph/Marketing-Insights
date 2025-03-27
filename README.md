@@ -29,8 +29,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/YOSEPHyoseph/Marketing-Insights.git
+   cd Marketing-Insights
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
@@ -53,13 +53,13 @@ To run this project locally, follow these steps:
 The application requires an Excel file named `campaign_data.xlsx` located in the same directory as `dashboard.py`. Ensure that the file contains the necessary data for the dashboard to function correctly.
 
 ## Deployment
-The application is deployed on Streamlit Cloud. You can access it [here](https://share.streamlit.io/yourusername/your-repo-name/main/dashboard.py).
+The application is deployed on Streamlit Cloud. You can access it [here](https://marketinginsight.streamlit.app/).
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 - Thanks to the Streamlit community for their support and resources.
