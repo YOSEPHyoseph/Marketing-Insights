@@ -1,0 +1,5 @@
+   streamlit
+   pandas
+   plotly
+   openpyxl  # Required for reading Excel files
+   numpy
